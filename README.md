@@ -13,6 +13,11 @@ jalankan di terminal:
 ```rust
 ./target/debug/guessing_game.exe
 ````
+2. Mac/Linux
+```rust
+cd target/debug && chmod +x guessing_game
+./guessing_game
+```
 
 ## Catatan
 
