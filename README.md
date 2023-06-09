@@ -21,4 +21,4 @@ chmod +x guessing_game
 
 ## Catatan
 
-Jangan lupa untuk install rust dan cargo terlebih dahulu
+Pastikan Anda telah menginstal Rust dan Cargo sebelum menjalankan perintah-perintah di atas.
