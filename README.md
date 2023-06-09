@@ -1,21 +1,21 @@
 # Rust Guessing Game
 
-Program tebak-tebakan angka dari 1 - 10 modifikasi dari dokumentasi rust
+Program tebak-tebakan angka dari 1 - 10 modifikasi dari dokumentasi Rust.
 
+## Instalasi
 
-## Install
+1. Salin repositori ke mesin Anda.
+2. Buka terminal dan arahkan ke direktori root repositori yang telah Anda salin.
 
-1. Salin repositori kemesin anda
-2. Buka terminal arahkan pada direktori root lalu jalankan perintah `cargo run` atau `cargo build`
-
-jalankan di terminal:
-1. windows
+Jika Anda menggunakan sistem Windows, jalankan perintah berikut di terminal:
 ```rust
 ./target/debug/guessing_game.exe
 ````
-2. Mac/Linux
+
+Jika Anda menggunakan sistem Mac atau Linux, jalankan perintah berikut di terminal:
 ```rust
-cd target/debug && chmod +x guessing_game
+cd target/debug
+chmod +x guessing_game
 ./guessing_game
 ```
 
