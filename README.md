@@ -1,4 +1,4 @@
-# Rust guessing game
+# Rust Guessing Game
 
 Program tebak-tebakan angka dari 1 - 10 modifikasi dari dokumentasi rust
 
