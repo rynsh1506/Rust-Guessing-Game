@@ -10,4 +10,4 @@ Program tebak-tebakan angka dari 1 - 10 modifikasi dari dokumentasi rust
 
 ## Catatan
 
-Jangan lupa untuk menginstall rust dan cargo terlebih dahulu
+Jangan lupa untuk install rust dan cargo terlebih dahulu
